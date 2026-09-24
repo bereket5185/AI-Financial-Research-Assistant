@@ -1,0 +1,16 @@
+# Local data and secrets
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Local tooling
+.vscode/
